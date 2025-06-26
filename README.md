@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cricket-performance-predictor-mc4a2kbjp6a5xvjrml3tuc.streamlit.app/)
 # 🏏 Cricket Performance Predictor
 
 This is a machine learning project that predicts how many runs a cricketer might score based on their recent performance, batting average, and strike rate.
