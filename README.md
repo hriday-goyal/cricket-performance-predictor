@@ -26,7 +26,7 @@ It then outputs a predicted run value using learned patterns.
 - `cricket_run_predictor_model.pkl`: The trained model file
 - `README.md`: Project overview
 
-## 🖥️ How to Run
+## 🌐 Live Demo
 
-```bash
-streamlit run app.py
+Try the app here:  
+👉 https://cricket-performance-predictor-mc4a2kbjp6a5xvjrml3tuc.streamlit.app/
